@@ -1,0 +1,2 @@
+# Namasta-Earth
+simple repository
